@@ -1,0 +1,16 @@
+name: pm-ideation-deep-research
+id: ari:cloud:compass:f8d79bca-e1fa-464e-8e56-48c46e9fdfdd:component/3001ccf8-8f31-475a-acc2-4bd914b9e540/deef4519-cc4e-4648-ac8c-4aa00287af83
+description: Using langgraph open deep research to generate discovery packs for product.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Cynomi/pm-ideation-deep-research
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
